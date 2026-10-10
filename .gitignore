@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.aws/
+.kube/
+kubeconfig
+*.pem
+*.key
+terraform.tfstate
+terraform.tfstate.*
+crash.log
